@@ -1,0 +1,22 @@
+fig01.jpg Renamed to fig01.BMP
+fig02.png Renamed to fig02.GIF
+fig03.gif Renamed to fig03.JPEG
+fig04.bmp Renamed to fig04.PNG
+fig09.jpg Renamed to fig09.BMP
+fig10.gif Renamed to fig10.GIF
+fig13.jpg Renamed to fig13.BMP
+fig14.png Renamed to fig14.GIF
+fig05.jpg Renamed to fig05.BMP
+fig06.png Renamed to fig06.GIF
+fig07.gif Renamed to fig07.JPEG
+fig08.bmp Renamed to fig08.PNG
+fig11.png Renamed to fig11.JPEG
+fig12.bmp Renamed to fig12.PNG
+fig15.gif Renamed to fig15.JPEG
+fig16.bmp Renamed to fig16.PNG
+20210704-2032
+Updated correct extensions
+20210704-2032
+Checked! All extensions are correct
+20210704-2032
+Checked! All extensions are correct
