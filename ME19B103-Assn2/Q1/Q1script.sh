@@ -18,4 +18,4 @@ do
 		print $1,$5,norm,g}' topmark=$i marks.csv >> Grades.csv
 done
 rm maxmark.txt
-cat norm.csv
+cat Grades.csv
