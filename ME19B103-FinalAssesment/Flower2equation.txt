@@ -1,0 +1,4 @@
+petal = 5;
+B = [121.4547, -5.3217, 25.5814];
+compR = B(1)+(B(2).*sin(petal.*angle))+(B(3).*cos(petal.*angle));
+
