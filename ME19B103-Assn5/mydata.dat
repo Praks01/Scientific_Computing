@@ -1,0 +1,6 @@
+X = [1.1, 2.2, 3.3, 4.4, 5.5]
+S = 'Authentication code for this file is XzmBqr'
+P = {'A': 1.05, 'model': 'Avrami', 'system': 'sample binary', 'n': 4}
+Q = array([[1.1, 1.2, 1.3],
+       [2.1, 2.2, 2.3],
+       [3.1, 3.2, 3.3]])
